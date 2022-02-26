@@ -2,6 +2,8 @@
 Ele foi criado com o objetivo de apresentar um pouco sobre mim e meus conhecimentos, além de disponibilizar meu portfólio.
 É uma construção de um site totalmente responsivo.
 
+https://www.dwmcode.com/index.html
+
 ## Páginas 
 O site é composto por 3 diferentes páginas:
 
