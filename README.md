@@ -9,15 +9,21 @@ O site é composto por 3 diferentes páginas:
 
 - **Página Home:** Essa página apresenta um pouco sobre mim e tecnologias que estou estudando.;
 
-![mobileHome](https://user-images.githubusercontent.com/90710466/155852161-b526d90d-2e74-45dd-bbe1-25729af4b5dc.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/90710466/155852161-b526d90d-2e74-45dd-bbe1-25729af4b5dc.png" width="200px"/>  
+<div/>
 
 - **Página Portfólio:** Apresenta alguns projetos desenvolvidos. E com link direto para os respectivos códigos no GitHub;
 
-![mobilePortfolio](https://user-images.githubusercontent.com/90710466/155852063-7a937480-5d4c-4996-92c5-01b23a1af1e0.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/90710466/155852063-7a937480-5d4c-4996-92c5-01b23a1af1e0.png" width="200px"/>
+<div/>
 
 - **Página Contato:** Essa página apresenta uma forma de entrar em contato através de um formulário para envio direto de e-mails;
 
-![mobileContato](https://user-images.githubusercontent.com/90710466/155852199-9b0ff512-75b8-47eb-a460-4eabe539133d.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/90710466/155852199-9b0ff512-75b8-47eb-a460-4eabe539133d.png" width="200px"/>
+<div/>
 
 ## 🛠 Tecnologias utilizadas
 Para o desenvolvimento do meu site utilizei as seguintes tecnologias:
